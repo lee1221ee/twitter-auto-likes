@@ -1,0 +1,15 @@
+{
+  "name": "twitter-auto-likes",
+  "version": "1.0.0",
+  "description": "Auto likes tweet of specific user",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee1221ee",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-api-v2": "^1.10.0"
+  }
+}
