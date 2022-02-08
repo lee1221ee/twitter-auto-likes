@@ -35,5 +35,4 @@ for (const user of config.users) {
         process.exit(0)
       })
   }
-  console.log("----------------------------------------")
 }
