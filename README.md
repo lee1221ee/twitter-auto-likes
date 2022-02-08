@@ -1,6 +1,7 @@
 # twitter-auto-likes
 
 ![screenshot](./images/screenshot.png)
+![screenshot](./images/twitter.jpg)
 
 ## Clone repo
 ```
