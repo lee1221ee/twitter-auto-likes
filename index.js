@@ -28,7 +28,7 @@ for (const user of config.users) {
     await likesTweet(tweet)
       .then(() => {
         let text = tweet.text.split("\n").join(" ").trim().substring(0, 100)
-        console.log("[" + user + "] \u2764\uFE0F " + text)
+        console.log("[" + user + "] \u2764\uFE0F  " + text)
       })
       .catch((error) => {
         console.log(error)
